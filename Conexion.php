@@ -5,7 +5,7 @@ class Conexion
     private $servidor = 'localhost';
     private $bd = 'php-poo';
     private $usuario = 'root';
-    private $password = '#Emiliano.32' ;
+    private $password = '' ;
 
     public function conectar()
     {
