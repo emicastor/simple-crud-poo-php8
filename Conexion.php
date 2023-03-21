@@ -3,7 +3,7 @@ class Conexion
 {
     public $con;
     private $servidor = 'localhost';
-    private $bd = 'php-poo';
+    private $bd = 'simple-crud-poo-php8';
     private $usuario = 'root';
     private $password = '' ;
 
